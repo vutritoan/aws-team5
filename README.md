@@ -1,31 +1,6 @@
-### To intsall all rhe required dependecies
+Project Demo : https://648e99873722947deac636f5--sage-dusk-64ff08.netlify.app/ 
 
-```
-npm install
-```
+![screencapture-648e99873722947deac636f5-sage-dusk-64ff08-netlify-app-2023-06-18-11_29_31](https://github.com/sunil9813/Bonik-Ecommerice-Website-in-React/assets/67497228/ddc909b1-385d-4d9b-bbfc-e6481f1ad3f9)
 
-## Start the project
 
-```
-npm start
-```
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### Test the application
-
-```
-npm test
-```
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### Build application
-
-```
-npm run build
-```
-
-Builds the app for production to the `build` folder.<br>
+![screencapture-648e99873722947deac636f5-sage-dusk-64ff08-netlify-app-cart-2023-06-18-11_30_04](https://github.com/sunil9813/Bonik-Ecommerice-Website-in-React/assets/67497228/37d04d8f-96fb-4502-8087-58e71519b28a)
